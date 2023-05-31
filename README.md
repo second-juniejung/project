@@ -3,6 +3,6 @@
 ## 기여자 목록
 - 홍길동
 - 박보검
-
+- second
 ## 참고사이트
 - www.github.com
